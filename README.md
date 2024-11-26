@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justsomeonexd AKA Ahmed
+- 👋 Hi, I’m @AhmedGamalFarouk
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me on gmail via ahmedgamalfarouk0@gmail.com
